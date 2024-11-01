@@ -1,2 +1,3 @@
 // Creando notas
-console.log('Estudiando JavaScirpt')
+let texto = "Primera línea\nSegunda línea";
+console.log(texto);
